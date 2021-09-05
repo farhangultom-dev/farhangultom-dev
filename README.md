@@ -1,7 +1,5 @@
 ### Hi there, I'm [Farhan](https://github.com/farhangultom-dev)! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on android developer freelance
 - 🌱 I’m currently learning dart flutter
 - 👯 I’m looking to collaborate on any open source project related to android dev using kotlin language or android developer job
