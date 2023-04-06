@@ -1,7 +1,7 @@
 ### Hi there, I'm [Farhan](https://github.com/farhangultom-dev)! 👋
 
 - 🔭 I’m currently working on android developer
-- 🌱 I’m currently learning dart flutter & VueJS
+- 🌱 I’m currently learning dart flutter
 - 👯 I’m looking to collaborate on any open source project related to android dev using kotlin language or android developer job
 - 💬 Ask me about anything related android apps development using kotlin
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/farhangultom) or  [Linkedin](https://www.linkedin.com/in/mfgultom/)
